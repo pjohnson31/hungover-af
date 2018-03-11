@@ -1,0 +1,16 @@
+.imageClass {
+  text-align:center;
+  display:block;
+  vertical-align: middle;
+}
+
+
+.header {
+  color: red;
+  font-weight: bold;
+}
+
+.header2 {
+  color: #90C94D;
+  text-align: center;
+}
